@@ -21,7 +21,7 @@ const config = {
     A187: '👾BOT X-PLAY👾',
     instagram: 'https://instagram.com/anggorgamep',
     nomer: 'wa.me/6283870068641',
-    aktif: 'Mulai Pukul 08:15 - 21:00',
+    aktif: 'Mulai Pukul 08:15 - 21:00 (Minggu Tutup)',
     youtube: 'https://youtube.com/channel/UCZTUYmFg7nGWaICg1Lz3k4g',
     whatsapp: 'https://chat.whatsapp.com/JyltroeLvoaIX3ZFKDcY4G',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
